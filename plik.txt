@@ -1,3 +1,7 @@
 pierwszt wpi
 drugi wpis
-xxxxxxxs/usr/bin/bash: line 1: q: command not found
+xxxxxxx
+
+
+
+nowa linijkas/usr/bin/bash: line 1: q: command not found
