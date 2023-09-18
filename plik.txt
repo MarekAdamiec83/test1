@@ -1,1 +1,1 @@
-/usr/bin/bash: line 1: q: command not found
+pierwszt wpis/usr/bin/bash: line 1: q: command not found
