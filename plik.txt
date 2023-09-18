@@ -15,4 +15,6 @@ nowa linijkas
 nowy wpis 
 =======
 xxxxxxx
+
+test
 >>>>>>> parent of 1c14bac (commit do resetu)
