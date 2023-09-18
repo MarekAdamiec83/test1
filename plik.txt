@@ -1,20 +1,27 @@
 <<<<<<< HEAD
 pierwszt wpi
 drugi wpis
-<<<<<<< HEAD
 xxxxxxx
 
 
 
-nowa linijkas
+nowa linijkas/usr/bin/bash: line 1: q: command not found
 =======
-
+pierwszt wpis/usr/bin/bash: line 1: q: command not found
 >>>>>>>a
 
 
 nowy wpis 
+<<<<<<< HEAD
 =======
 xxxxxxx
 
 test
+
+
+
+
+nowy wpis
 >>>>>>> parent of 1c14bac (commit do resetu)
+=======
+>>>>>>> parent of 41b16be (nowy commit)
